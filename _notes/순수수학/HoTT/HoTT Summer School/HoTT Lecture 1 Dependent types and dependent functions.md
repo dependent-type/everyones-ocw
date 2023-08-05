@@ -25,7 +25,7 @@ Similarly, if it stands for the right, we say it $\wedge \verb|-elim-r|$.
 
 (2) implication[^1] elimination (we write it like $\verb|-elim|$)
 $$
-\dfrac{{\dfrac{P \land (P \rightarrow Q)}{P}}{\dfrac{P \land (P \rightarrow Q)}{P \rightarrow Q}}}{Q}  
+\dfrac{ {\dfrac{P \land (P \rightarrow Q)}{P} }{\dfrac{P \land (P \rightarrow Q)}{P \rightarrow Q} } }{Q}  
 $$
 [^1]: implication(조건명제, 함의)란 $p\rightarrow q$ 와 같은 명제에서 해당 명제가 참일때를 의미한다. 일반적으로 $p\Rightarrow q$ 와 같이 표기한다. 
 
