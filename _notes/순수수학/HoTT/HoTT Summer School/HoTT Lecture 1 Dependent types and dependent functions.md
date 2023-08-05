@@ -90,7 +90,7 @@ We call $p$ a term of type $P$.
 
 Ex)  show $Q$ from $P\cap (P \rightarrow Q)$
 $$
-\dfrac{{\dfrac{a:P \land (P \rightarrow Q)}{\mathrm{pr_1}a:P}}\,\,\,{\dfrac{a:P \land (P \rightarrow Q)}{\mathrm{pr_2}a:P \rightarrow Q}}}{(\mathrm{pr_2}a)(\mathrm{pr_1}a):Q}  
+\dfrac{ {\dfrac{a:P \land (P \rightarrow Q) }{\mathrm{pr_1}a:P} }\,\,\,{\dfrac{a:P \land (P \rightarrow Q)}{\mathrm{pr_2}a:P \rightarrow Q} } }{(\mathrm{pr_2}a)(\mathrm{pr_1}a):Q}  
 $$
 
 Rules for $\wedge$: 
